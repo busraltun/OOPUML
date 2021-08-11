@@ -1,4 +1,3 @@
 # OOPUML
 
 ![UML](images/UNİVERSİTYMANAGEMENTSYSTEM.png)
-
