@@ -1,3 +1,3 @@
 # OOPUML
 
-![UML](./images/UNİVERSİTYMANAGEMENTSYSTEM.png)
+![UML](C:\Users\busra\Desktop\OOPUML\images\UNİVERSİTYMANAGEMENTSYSTEM.png)
